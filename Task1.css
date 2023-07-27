@@ -1,0 +1,23 @@
+.box{
+    width: 460px;
+    margin: 50px auto;
+    background-color: rgb(32, 232, 129);
+    padding: 70px;
+    font-family: sans-serif;
+    border-radius: 30px;
+
+}
+h1{
+    font-size:50px; 
+}
+.btn{
+    background-color: white;
+    color: black;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 35px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
